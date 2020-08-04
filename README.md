@@ -1,2 +1,2 @@
 # watermelon-GUID-generator
-生成GUID的对话框
+使用Win32ASM编写的GUID的对话框
